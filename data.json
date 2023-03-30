@@ -1,0 +1,62 @@
+{
+    "name":"Akshay Bale",
+    "occupation":"Python Programmer",
+    "image":"profile.png",
+    "insta":"https://www.instagram.com/saigenix",
+    "git":"https://github.com/saigenix",
+    "twitter":"https://twitter.com/saigenix",
+    "linkedin":"https://www.linkedin.com/in/saigenix77",
+    "about":"Data Scientist who likes to solve problems using code. Proficient in the field of statistics, specifically Machine Learning and Artificial Intelligence. Other interests include building Computer Vision and Time Series Models, Data Visualization and Sales & Profit Forecasting",
+    "age": 20,
+    "email": "akshaybale@gmail.com",
+    "phone": "+91 9766574356",
+    "address": "Earth , milky way galaxy",
+    "language": "English,Hindi",
+    "Programming":"Python, R, SQL, JavaScript",
+    "tools": "Scikit-Learn, NumPy, Pandas, Matplotlib, Tableau, MS Excel, OpenCV, Keras, Tensorflow",
+    "internet": "Flask, HTML5, CSS, XML, jQuer",
+    "other": "MySQL, SQLite3",
+    "work":[
+        {"time":"JUNE 2021 - PRESENT",
+             "company":"MATRIX ANALYTICS CORPORATION",
+             "post":"Python Programmer",
+             "info":"Delivered Model Risk Management Dashboards to track model performance post deployment for a lending client.Working on building code, enhanced templates and defining a best practice for one of the key milestones of XAI model development process of Credit risk management models of MATRiX."},
+         {"time":"JUNE 2019 - APRIL 2020",
+             "company":"MATRIX ANALYTICS CORPORATION",
+             "post":"Data Scientist Intern",
+             "info":"Built suite of AI based revenue and balance models for one of the major banking client.Automated the task of Exploratory Data Analysis by writing a Python Script to perform analysis on any given dataset. Developed front-end forms for clients to get user-input and run Machine Learning models for the client using JavaScript"},
+         {"time":"SEPTEMBER 2017 - DECEMBER 2017",
+             "company":"CENTRAL DRUG RESEARCH INSTITUTE",
+             "post":"Research Intern",
+             "info":"Analyzed over 30 research papers and data sources to gather data on the spread of Parkinson’s Disease Visualized various trends in the spread of Parkinson’s Disease across the Globe using Tableau."}
+        
+        ],
+    "projects":[
+        {"time":"JUNE 2021 - PRESENT",
+             "name":"MATRIX Game",
+             "info":"Delivered Model Risk Management Dashboards to track model performance post deployment for a lending client.Working on building code, enhanced templates and defining a best practice for one of the key milestones of XAI model development process of Credit risk management models of MATRiX."},
+         {"time":"JUNE 2019 - APRIL 2020",
+             "name":"ML Model",
+             "info":"Built suite of AI based revenue and balance models for one of the major banking client.Automated the task of Exploratory Data Analysis by writing a Python Script to perform analysis on any given dataset. Developed front-end forms for clients to get user-input and run Machine Learning models for the client using JavaScript"},
+         {"time":"SEPTEMBER 2017 - DECEMBER 2017",
+             "name":"Own Text Transformer",
+             "info":"Analyzed over 30 research papers and data sources to gather data on the spread of Parkinson’s Disease Visualized various trends in the spread of Parkinson’s Disease across the Globe using Tableau."}
+        
+        ],
+    "education":[
+        {"time":"2018 - 2020",
+             "name":"Master's Degree",
+             "course":"M.S. in Information Systems",
+             "collage":"STEVENS INSTITUTE OF TECHNOLOGY",
+             "info":"Relevant Coursework: Web Mining, Knowledge Discovery in Databases, Marketing Analytics",
+             "projects":["Human Trafficking Knowledge Graph - A knowledge graph generating project that helped identify over 100 cases of Human Trafficking around NYC. Judged as the best solution for the competition.","Hate Comment Detector – A flask powered website to automatically filter hate comments from Twitter and Live News using Logistic Regression algorithm."]
+        },
+        {"time":"2014 - 2018",
+             "name":"Bachelor's Degree",
+             "course":"B.Tech in Computer Science",
+             "collage":"SGGS Nanded",
+             "info":"Relevant Coursework: Web Development, Advanced Database Management Systems, Object Oriented Programming, Data Mining and Business Intelligence",
+             "projects":["AutoPlay - A Machine Learning model to predict the outcome of a cricket game beforehand, based on the past records and performances.","Hate Comment Detector – A flask powered website to automatically filter hate comments from Twitter and Live News using Logistic Regression algorithm."]
+        }
+        ]
+    }
