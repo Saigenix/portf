@@ -7,10 +7,12 @@
  *📃follow given Documentation To create Your Site👇*
 
 ---
-*To install our library 👇*
+*To install the library 👇*
 
-`pip install portf`
-
+```python
+pip install portf
+```
+---
 ```python
 from portf import RunApp,Data
 
@@ -68,6 +70,7 @@ education = [{"time":"2018 - 2020",
              "info":"Info about Course",
              "projects":["Project info",'achievements']}] # list fo object
 ```
+---
 ` this module uses flask for website generation feel free to contribute`
 
 *More features and themes will be coming soon✅*
