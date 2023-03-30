@@ -98,7 +98,7 @@ class Data:
 def index():
     return render_template("index.html",data=data)
     
-
+# function to run APP
 def RunApp(port,dataobj):
     '''
     function for running app
@@ -108,6 +108,3 @@ def RunApp(port,dataobj):
     global data
     data = dataobj
     app.run(port=port)
-
-# if __name__ == "__main__":
-#     app.run(debug=True)

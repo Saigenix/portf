@@ -1,0 +1,4 @@
+graft src
+global-include *.html
+graft static*
+include *.html
