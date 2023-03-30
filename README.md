@@ -71,8 +71,8 @@ education = [{"time":"2018 - 2020",
              "projects":["Project info",'achievements']}] # list fo object
 ```
 ---
-` this module uses flask for website generation feel free to contribute`
+` this module uses flask for website generation, feel free to contribute`
 
-*More features and themes will be coming soon✅*
+*More features and ==themes== will be coming soon✅*
 
 > Created By @saigenix , All rights are reserved
